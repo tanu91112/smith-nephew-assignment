@@ -1,4 +1,3 @@
-
 # 📊 SIOP Reporting Dashboard | Power BI
 
 An interactive Power BI dashboard developed as part of the **Smith & Nephew Analytics Internship Assessment (Case Study 2 – SIOP Reporting)**. The project compares forecast snapshots with actual sales data to evaluate forecast performance using dynamic visualizations, KPI metrics, and business insights.
